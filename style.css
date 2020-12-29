@@ -1,0 +1,81 @@
+body, html {
+    background: black;
+    display: block;
+}
+.bigCaja {
+    background: white;
+    width: 75%;
+    height: 70vh;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+   
+}
+.item {
+    float: left;
+}
+#divChildUno {
+    background:white;
+    width: 80%;
+    height: 10vh;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-right: 3px;
+    
+}
+h1 {
+    font-size: 40px;
+    font:  oblique bold 250% cursive;
+    padding-left: 2%;
+}
+#divChildDos {
+    background: white;
+    width: 16%;
+    height: 10vh;
+    padding-top: 3%;
+
+}
+.itemDos{
+    float: left;
+}
+#divChildTres { 
+    width: 30%;
+    height: 30vh;
+    padding-left: 3%;
+    
+    padding-right: 25%; 
+}
+#divChildTres, h2 { 
+    font:  oblique bold 120% cursive;
+    
+}
+#divChildCuatro {
+    width: 10%;
+    height: 30vh;
+}
+ input {
+     border: 0;
+    padding-top: 5%;
+   border-bottom: 1px solid rgb(179, 178, 178) ;
+    font:  oblique bold 120% cursive;
+    color: rgb(0, 0, 0);
+    padding: 40%;
+    
+}
+
+
+
+li {
+    list-style:none;
+}
+#divChildCinco{
+    overflow: hidden;
+    width: 40%;
+    padding-top: 15%;
+    margin-left: 10cm;   
+}
+ button {
+    display: flex;
+    font:  oblique bold 140% cursive;
+    background: rgb(179, 179, 179);
+}
